@@ -77,7 +77,7 @@ subtitle = ""
 
 Project
 
-![ZHONG](academic-kickstart/static/media/WechatIMG9663.JPEG)
+![ZC](static/media/zhong.PNG)
 
 
 

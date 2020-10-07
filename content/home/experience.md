@@ -37,6 +37,13 @@ date_format = "Jan 2006"
   date_end = "2016-12-31"
   description = """"""
 
-
+[[experience]]
+  title = "Research Assistant"
+  company = "School of Environment, Tsinghua University"
+  company_url = "http://www.env.tsinghua.edu.cn/"
+  location = "Bejing, China"
+  date_start = "2019-11-01"
+  date_end = "2020-02-01"
+  description = """"""
 
 +++

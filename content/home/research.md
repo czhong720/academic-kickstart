@@ -75,10 +75,9 @@ subtitle = ""
  css_class = ""
 +++
 
-Project
-  
+Project1
 
-<img src="static/media/zhong.png">
+<img src="Users/apple/Desktop/Study_and_Job_application/My_Website2/static/media/zhong.png">
 
 
 

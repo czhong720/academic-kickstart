@@ -76,7 +76,8 @@ subtitle = ""
 +++
 
 Project
-image = "WechatIMG9663.jpg"
+![Example image](static/media/WechatIMG9663.jpg)
+
 
 
 

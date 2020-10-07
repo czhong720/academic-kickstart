@@ -76,7 +76,7 @@ subtitle = ""
 +++
 
 Project
-![Example image](static/media/WechatIMG9663.jpg)
+![Example image](https://czhong720.github.io/academic-kickstart/static/media/WechatIMG9663.jpg)
 
 
 

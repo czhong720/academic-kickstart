@@ -77,7 +77,7 @@ subtitle = ""
 
 Project
 
-![my_image](static/media/WechatIMG9663.jpg)
+![ZHONG](static/media/WechatIMG9663.jpeg)
 
 
 

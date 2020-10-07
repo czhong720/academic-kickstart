@@ -76,11 +76,9 @@ subtitle = ""
 +++
 
 Project
-  header:
-  image: "static/media/zhong.png"
-  caption: "Image credit: [**Academic**](https://github.com/gcushen/hugo-academic/)"
+  
 
-<img src="/static/media/zhong.png"/>
+<img src="static/media/zhong.png">
 
 
 

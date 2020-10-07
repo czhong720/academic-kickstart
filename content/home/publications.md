@@ -5,9 +5,9 @@
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 90  # Order that this section will appear.
+weight = 70  # Order that this section will appear.
 
-title = "Recent Publications"
+title = "Publications"
 subtitle = ""
 
 [content]
@@ -67,6 +67,9 @@ subtitle = ""
  css_class = ""
 +++
 
-{{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}}
+<b>Cheng Zhong</b>, Camilla L. Nesbø, Greg G. Goss, Brian D. Lanoil, Daniel S. Alessi. Response of aquatic microbial communities and bioindicator modelling of hydraulic fracturing flowback and produced water. <i>FEMS Microbiology Ecology<i>, 2020, 96, fiaa068 
+
+<b>Cheng Zhong</b>, Jiaying Li, Shannon L. Flynn, Camilla L. Nesbø, Chenxing Sun, Konstantin von Gunten, Brian D. Lanoil, Greg G. Goss, Jonathan W. Martin, Daniel S. Alessi. Temporal changes in microbial community composition and geochemistry in flowback and produced water from the Duvernay Formation. <i>ACS Earth and Space Chemistry<i>. 2019, 3, 1047−1057
+
+Konstantin von Gunten, Stewart M. Hamilton, <b>Cheng Zhong</b>, Camilla L. Nesbø, Jiaying Li, Karlis Muehlenbachs, Kurt O. Konhauser, Daniel S. Alessi. Electron donor‐driven bacterial and archaeal community patterns along forest ring edges in Ontario, Canada. <i> Environmental Microbiology Report<i>. 2019, 124, 11, 3536-3554 
+

@@ -77,7 +77,7 @@ subtitle = ""
 
 Project
 
-<img src="static/media/zhong.png"/>
+<img src="/static/media/zhong.png"/>
 
 
 

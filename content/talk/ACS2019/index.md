@@ -16,7 +16,7 @@ authors: []
 tags: []
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 image:
   caption: 'Image credit: [**Unsplash**](/Users/apple/Desktop/Study_and_Job_application/My_Website/content/talk/example/ACS2019)'

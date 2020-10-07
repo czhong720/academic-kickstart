@@ -67,9 +67,9 @@ subtitle = ""
  css_class = ""
 +++
 
-<b>Cheng Zhong</b>, Camilla L. Nesbø, Greg G. Goss, Brian D. Lanoil, Daniel S. Alessi. [**Response of aquatic microbial communities and bioindicator modelling of hydraulic fracturing flowback and produced water.**](https://academic.oup.com/femsec/article-abstract/96/5/fiaa068/5819956?redirectedFrom=fulltext) <i>FEMS Microbiology Ecology<i>, 2020, 96, fiaa068 
+<p><b>Cheng Zhong</b>, Camilla L. Nesbø, Greg G. Goss, Brian D. Lanoil, Daniel S. Alessi. [**Response of aquatic microbial communities and bioindicator modelling of hydraulic fracturing flowback and produced water.**](https://academic.oup.com/femsec/article-abstract/96/5/fiaa068/5819956?redirectedFrom=fulltext) <i>FEMS Microbiology Ecology</i>, 2020, 96, fiaa068</p> 
 
-<b>Cheng Zhong</b>, Jiaying Li, Shannon L. Flynn, Camilla L. Nesbø, Chenxing Sun, Konstantin von Gunten, Brian D. Lanoil, Greg G. Goss, Jonathan W. Martin, Daniel S. Alessi. [**Temporal changes in microbial community composition and geochemistry in flowback and produced water from the Duvernay Formation.**](https://pubs.acs.org/doi/10.1021/acsearthspacechem.9b00037) <i>ACS Earth and Space Chemistry<i>. 2019, 3, 1047−1057
+<p><b>Cheng Zhong</b>, Jiaying Li, Shannon L. Flynn, Camilla L. Nesbø, Chenxing Sun, Konstantin von Gunten, Brian D. Lanoil, Greg G. Goss, Jonathan W. Martin, Daniel S. Alessi. [**Temporal changes in microbial community composition and geochemistry in flowback and produced water from the Duvernay Formation.**](https://pubs.acs.org/doi/10.1021/acsearthspacechem.9b00037) <i>ACS Earth and Space Chemistry</i>. 2019, 3, 1047−1057</p>
 
-Konstantin von Gunten, Stewart M. Hamilton, <b>Cheng Zhong</b>, Camilla L. Nesbø, Jiaying Li, Karlis Muehlenbachs, Kurt O. Konhauser, Daniel S. Alessi. [**Electron donor‐driven bacterial and archaeal community patterns along forest ring edges in Ontario, Canada.**](https://sfamjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1758-2229.12678) <i> Environmental Microbiology Report<i>. 2019, 124, 11, 3536-3554 
+<p>Konstantin von Gunten, Stewart M. Hamilton, <b>Cheng Zhong</b>, Camilla L. Nesbø, Jiaying Li, Karlis Muehlenbachs, Kurt O. Konhauser, Daniel S. Alessi. [**Electron donor‐driven bacterial and archaeal community patterns along forest ring edges in Ontario, Canada.**](https://sfamjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1758-2229.12678) <i> Environmental Microbiology Report</i>. 2019, 124, 11, 3536-3554</p> 
 

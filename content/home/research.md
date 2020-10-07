@@ -76,7 +76,8 @@ subtitle = ""
 +++
 
 Project
-![Example image]('WechatIMG9663.jpg')
+
+![my_image](static/media/WechatIMG9663.jpg)
 
 
 

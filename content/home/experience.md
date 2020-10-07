@@ -33,8 +33,8 @@ date_format = "Jan 2006"
   company = "Department of Earth and Atmospheric Sciences, University of Alberta"
   company_url = "https://www.ualberta.ca/earth-sciences/index.html"
   location = "Edmonton, Canada"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
+  date_start = "2016-01-10"
+  date_end = "2020-11-15"
   description = """"""
 
 [[experience]]

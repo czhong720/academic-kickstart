@@ -19,7 +19,7 @@ tags: []
 featured: true
 
 image:
-  caption: ''
+  caption: '[**ZHONG Cheng**](https://czhong720.github.io/)'
   focal_point: Right
 
 links:

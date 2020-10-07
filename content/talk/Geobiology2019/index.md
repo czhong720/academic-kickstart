@@ -19,7 +19,7 @@ tags: []
 featured: true
 
 image:
-  caption: 'Image credit: [**Unsplash**](/Users/apple/Desktop/Study_and_Job_application/My_Website/content/talk/example/ACS2019)'
+  caption: '[**ZHONG Cheng**](https://czhong720.github.io/)'
   focal_point: Right
 
 links:

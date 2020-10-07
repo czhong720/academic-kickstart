@@ -77,7 +77,7 @@ subtitle = ""
 
 Project
 
-![Cheng](https://github.com/czhong720/academic-kickstart/blob/master/static/media/zhong.png)
+<img src="static/media/zhong.png"/>
 
 
 

@@ -77,7 +77,7 @@ subtitle = ""
 
 Project
 
-![CZ](static/media/zhong.png)
+![ZC](/static/media/zhong.png)
 
 
 

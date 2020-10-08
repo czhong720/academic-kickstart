@@ -16,7 +16,7 @@ title: "Collaborators & Friends"
 subtitle: "Modern sciences involved many efforts from different areas of knowledges, making life-long friends and collaboration is my philosophy to do good science."
 
 design:
-  columns: "1"
+  columns: "2"
   background:
     image: headers/bubbles-wide.jpg
     image_darken: 0.6
@@ -27,7 +27,7 @@ design:
   spacing:
     padding: ["20px", "0", "20px", "0"]
 
-    color = "navy"
+
 ---
 
 Dan

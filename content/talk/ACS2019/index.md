@@ -10,7 +10,7 @@ date_end: ""
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2017-08"
+publishDate: "2019-08-01T00:00:00Z"
 
 authors: []
 tags: []

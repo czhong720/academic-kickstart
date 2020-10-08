@@ -24,7 +24,7 @@ design:
     image_parallax: true
     image_position: center
     image_size: cover
-    text_color_light: false
+    text_color_light: true
   spacing:
     padding: ["20px", "0", "20px", "0"]
 
@@ -33,8 +33,6 @@ design:
 ---
 
 Associated Professor [**Dr. Daniel S. Alessi**](http://alessilaboratory.com/) (University of Alberta)
-
-<img src="media/image-asset.jpeg"> 
 
 Associated Professor [**Dr. Brian D. Lanoil**](https://apps.ualberta.ca/directory/person/lanoil) (University of Alberta)
 

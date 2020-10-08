@@ -75,7 +75,24 @@ subtitle = ""
  css_class = ""
 +++
 
-DAN is
+<b>Ocean and Global Climate</b>
+
+Methane releasing from the seafloor may have impacts on the global climate in Earth history. Methane seep environments are unique and isolated ecosystems in the deep ocean. My research is to reconstruct the oceanic biogeochemical processes based on rock records using geochemistry methods (e.g., isotopes). Besides, coupling genomic evidence better to understand the role of microbial communities in the methane seeps. This knowledge can be harnessed to look at seafloor methane's stability today with a future view under current global warming. 
+
+<b>Genome Mining of Deep Ocean Biomass</b>
+
+The deep ocean harbors massive biomass that may be different from other environments, which allows us to investigate the genetic diversity of lives. Some of the genes may have commercial uses to solve practical problems in many fields such as medicine, agriculture, and energy sectors. To fully explore the deep ocean resources, I aim to identify these new genes directly from the environment with multiple types of omics to provide essential bioinformatic information to the downstream biotech industries.
+
+<b>Microbial Ecology of Hydraulic Fracturing Water Cycle</b>
+
+<img src="media/Research_1.JPG"> 
+Photo Credit: Shannon L. Flynn
+
+Hydraulic fracturing is the key technology to extract unconventional resources from the low permeability formations. I explored the global metagenome features of microbial community structures and functionalities in the deep fractured subsurface to understand their impacts, such as biocorrosion and biofouling, on energy production. 
+
+The wastewater produced from hydraulic fracturing may contaminate the environments in terms of a spill. I integrated bioinformatics, machine learning, and comprehensive chemistry tools to understand the hydraulic fracturing wastewater's impact on the soil and aquifer microbiome, metabolites. This knowledge is useful to develop effective bioindicators further and assess/enhance bioremediation potentials.
+
+
 
 
 

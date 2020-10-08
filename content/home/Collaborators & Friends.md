@@ -31,12 +31,15 @@ design:
 
 
 ---
+Professor [**Dr. Peiyuan QIAN**](https://www.qianlab.ust.hk/) (HongKong University of Science and Technology)
 
 Associated Professor [**Dr. Daniel S. Alessi**](http://alessilaboratory.com/) (University of Alberta)
 
 Associated Professor [**Dr. Brian D. Lanoil**](https://apps.ualberta.ca/directory/person/lanoil) (University of Alberta)
 
 Professor [**Dr. Greg G. Goss**](http://grad.biology.ualberta.ca/goss/) (University of Alberta)
+
+Associated Professor [**Dr. Kelly Wrighton**](https://wrightonlab.com/) (Colorado State University)
 
 Associated Professor [**Dr. Deyi HOU**](https://www.tsinghua.edu.cn/enven/info/1052/1992.htm) (Tsinghua University)
 

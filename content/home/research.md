@@ -88,6 +88,7 @@ The deep ocean harbors massive biomass that may be different from other environm
 <img src="media/Research_1.JPG"> 
 Photo Credit: Shannon L. Flynn
 <br> <!-- New line -->  
+<br> <!-- New line --> 
 Hydraulic fracturing is the key technology to extract unconventional resources from the low permeability formations. I explored the global metagenome features of microbial community structures and functionalities in the deep fractured subsurface to understand their impacts, such as biocorrosion and biofouling, on energy production. 
 
 The wastewater produced from hydraulic fracturing may contaminate the environments in terms of a spill. I integrated bioinformatics, machine learning, and comprehensive chemistry tools to understand the hydraulic fracturing wastewater's impact on the soil and aquifer microbiome, metabolites. This knowledge is useful to develop effective bioindicators and assess/enhance bioremediation potentials.

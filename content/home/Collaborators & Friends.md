@@ -34,6 +34,8 @@ design:
 
 Associated Professor [**Dr. Daniel S. Alessi**](http://alessilaboratory.com/) (University of Alberta)
 
+<img src="media/image-asset.jpeg"> 
+
 Associated Professor [**Dr. Brian D. Lanoil**](https://apps.ualberta.ca/directory/person/lanoil) (University of Alberta)
 
 Professor [**Dr. Greg G. Goss**](http://grad.biology.ualberta.ca/goss/) (University of Alberta)

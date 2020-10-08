@@ -13,7 +13,7 @@ headless: true
 weight: 100
 
 title: "Collaborators & Friends"
-subtitle: "Modern sciences involved many efforts from different areas of knowledges, making life-long friends and collaboration is my philosophy to do good science."
+subtitle: "<b><i>Modern sciences involved many efforts from different areas of knowledges, making life-long friends worldwide and have high-quality collaboration is my philosophy to do good science.</b></i>"
 
 
 design:
@@ -24,7 +24,7 @@ design:
     image_parallax: true
     image_position: center
     image_size: cover
-    text_color_light: true
+    text_color_light: false
   spacing:
     padding: ["20px", "0", "20px", "0"]
 

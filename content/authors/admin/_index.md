@@ -54,13 +54,18 @@ social:
 #  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?hl=en&user=m-xTPlMAAAAJ
+  link: https://scholar.google.com/citations?user=srxWszgAAAAJ
+# TODO: make this into text (refer to chat site for Academic theme)
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-1575-3710
+#- icon: cv
+#  icon_pack: ai
+#  name: "ETIS"
+#  link: https://www.etis.ee/CV/Kaarel_Mand/eng
 - icon: github
   icon_pack: fab
-  link: https://github.com/czhong720
-- icon: publons
-  icon_pack: ai
-  link: https://publons.com/dashboard/records/review
+  link: https://github.com/kaarelmand
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv

@@ -12,8 +12,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 100
 
-title: Demos
-subtitle:
+title: "Collaborators & Friends"
+subtitle: "Modern sciences involved many efforts from different areas of knowledges, making life-long friends and collaboration is my philosophy to do good science."
 
 design:
   columns: "1"

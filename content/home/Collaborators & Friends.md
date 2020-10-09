@@ -37,6 +37,8 @@ Associated Professor [**Dr. Daniel S. Alessi**](http://alessilaboratory.com/) (U
 
 Associated Professor [**Dr. Brian D. Lanoil**](https://apps.ualberta.ca/directory/person/lanoil) (University of Alberta)
 
+Professor [**Dr. Kurt Konhauser**](https://www.eas.ualberta.ca/konhauser/) (University of Alberta)
+
 Professor [**Dr. Greg G. Goss**](http://grad.biology.ualberta.ca/goss/) (University of Alberta)
 
 Associated Professor [**Dr. Kelly Wrighton**](https://wrightonlab.com/) (Colorado State University)

@@ -1,5 +1,5 @@
 ---
-title: Resources for Future Generations (2018)
+title: Resources for Future Generations, Vancouver (2018)
 
 summary: Microbial community dynamics in flowback and produced water from unconventional hydrocarbon wells (talk).
 

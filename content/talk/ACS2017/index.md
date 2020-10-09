@@ -1,5 +1,5 @@
 ---
-title: ACS San Francisco (2019)
+title: ACS San Francisco (2017)
 
 summary: Microbial community dynamics in the hydraulic fracturing water cycle of a newly fractured shale gas well in western Canada (talk).
 

@@ -1,5 +1,5 @@
 ---
-title: European Innovation Partnership Water Conference (2017)
+title: European Innovation Partnership Water Conference, Porto (2017)
 
 summary: Innovative products & Chinese markets (co-chair).
 

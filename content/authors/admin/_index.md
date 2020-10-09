@@ -18,7 +18,7 @@ organizations:
   url: "https://www.ust.hk/zh-hans/home"
 
 # Short bio (displayed in user profile at end of posts)
-I am a Postdoctoral Fellow at [**Dr. QIAN Pei-Yuan's lab**](https://www.qianlab.ust.hk/). I am keen on conducting interdisciplinary environmental sciences interlinked by microbial ecology, geosciences, chemistry, and computational sciences.
+bio: I am a Postdoctoral Fellow at [**Dr. QIAN Pei-Yuan's lab**](https://www.qianlab.ust.hk/). I am keen on conducting interdisciplinary environmental sciences interlinked by microbial ecology, geosciences, chemistry, and computational sciences.
 
 interests:
 - Environmental Sciences

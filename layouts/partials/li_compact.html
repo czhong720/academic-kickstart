@@ -50,7 +50,7 @@
       {{ if eq $item.Type "talk" }}
       <div>
         <span>
-          {{ partial "functions/get_event_dates" $item }}
+          {{ partial "functions/get_simple_dates" $item }}
         </span>
         {{ with $item.Params.location }}
         <span class="middot-divider"></span>

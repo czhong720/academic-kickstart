@@ -1,9 +1,9 @@
 +++
 # Accomplishments widget.
-widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "Awards and Media"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 50  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 95  # Order that this section will appear.
 
 title = "Accomplish&shy;ments"
 subtitle = ""
@@ -19,33 +19,104 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
-  url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  organization = "University of Alberta"
+  organization_url = ""
+  title = "Media interview for research outcome"
+  url = "https://www.ualberta.ca/science/news/2019/september/alberta-drill-sites-microbiology.html"
+  certificate_url = ""
+  date_start = "2017"
   date_end = ""
   description = ""
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
+  organization = "University of Alberta"
+  organization_url = ""
+  title = "J Gordin Kaplan Student award"
+  url = ""
+  certificate_url = ""
+  date_start = "2017"
   date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  description = ""
+
+[[item]]
+  organization = "University of Alberta"
+  organization_url = ""
+  title = "GSA travel award"
+  url = ""
+  certificate_url = ""
+  date_start = "2017"
+  date_end = ""
+  description = ""
   
 [[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  organization = "Southwest Petroleum University"
+  organization_url = ""
+  title = "Honored undergraduate degree"
   url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
+  certificate_url = ""
+  date_start = "2014"
+  date_end = ""
   description = ""
+
+[[item]]
+  organization = "Southwest Petroleum University"
+  organization_url = ""
+  title = "Honored undergraduate thesis"
+  url = ""
+  certificate_url = ""
+  date_start = "2014"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Southwest Petroleum University"
+  organization_url = ""
+  title = "Second-price scholarship"
+  url = ""
+  certificate_url = ""
+  date_start = "2013"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Southwest Petroleum University"
+  organization_url = ""
+  title = "Sichuan Province Environment Protection Scientific Technology Award (participant)"
+  url = ""
+  certificate_url = ""
+  date_start = "2013"
+  date_end = ""
+  description = "Treating drilling mud real time during drilling to prevent drilling mud falling ground"
+
+[[item]]
+  organization = "Southwest Petroleum University"
+  organization_url = ""
+  title = "Second prize in undergraduate innovation experiment"
+  url = ""
+  certificate_url = ""
+  date_start = "2013"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Southwest Petroleum University"
+  organization_url = ""
+  title = "Second-price scholarship"
+  url = ""
+  certificate_url = ""
+  date_start = "2012"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Southwest Petroleum University"
+  organization_url = ""
+  title = "First-price scholarship"
+  url = ""
+  certificate_url = ""
+  date_start = "2012"
+  date_end = ""
+  description = ""
+
 
 +++

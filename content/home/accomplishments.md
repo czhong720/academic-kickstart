@@ -24,7 +24,7 @@ date_format = "2006"
   title = "Media interview for research outcome"
   url = "https://www.ualberta.ca/science/news/2019/september/alberta-drill-sites-microbiology.html"
   certificate_url = ""
-  date_start = "2017-01-01"
+  date_start = "2019-01-01"
   date_end = ""
   description = ""
 
